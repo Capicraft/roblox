@@ -1,0 +1,2 @@
+--Bring to you by rbscripts.net : Visit rbscripts.net for more than 100+ scripts
+loadstring(game:HttpGet("https://www.macrov2-script.xyz/macrov3.lua"))()
